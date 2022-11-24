@@ -49,3 +49,14 @@ figcaption {
   text-align: start !important;
   text-align-last: start !important;
 }
+
+.list {
+  width: 50%;
+  margin: auto;
+  text-align: left;
+}
+
+.quote {
+  width: 50%;
+  margin: 30px auto;
+}
